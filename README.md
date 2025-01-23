@@ -22,3 +22,5 @@ React: A JavaScript library for building user interfaces.
 Node.js: Backend support for server-side operations.
 Goals
 The main goal of this project was to create an efficient and modular web application that adheres to modern web development principles, allowing developers to quickly build and scale their own apps using a strong foundation.
+
+made with love by Samarth and umar
